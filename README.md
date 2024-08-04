@@ -8,4 +8,4 @@ The code, written in Bash, implements security measures for a hypothetical betti
 3) The gameplay phase occurs through the execution of the gioco.sh script: "./gioco.sh person1 person2...." The server also participates in the game, thus becoming an active participant.
 
 Each phase is characterized by various encryption and hashing procedures and the use of blockchain technology. The openssl commands were used to implement these features.
-Important: To ensure proper functionality, it is necessary to download the package containing the xxd command.
+Important: To ensure proper functionality, it is necessary to download the packages containing the xxd and bc commands.
