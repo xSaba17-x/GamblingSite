@@ -1,0 +1,14 @@
+Nome:Franco
+Cognome:Bool
+Comune Di Nascita:Avellino
+Data di Nascita:07-07-2000
+Sesso:Maschio
+Codice Fiscale:ACASO00
+Data Ultima Vaccinazione:07-07-2021
+Data Ultima Positivita:NULL
+Data di Scadenza:07-07-2022
+Numero di Dosi:3
+Marca Vaccino:Pfizer
+Produttore Vaccino:Pfizer
+Codice della Dose:123
+Ente Responsabile:Asl
